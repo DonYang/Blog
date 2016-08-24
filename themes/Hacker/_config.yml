@@ -1,0 +1,14 @@
+menu:
+  Home: /
+  Archives: /archives
+
+# duoshuo comment
+duoshuo: true
+duoshuo_name: 6321425330716279554
+
+# disqus comment
+disqus: false
+disqus_shortname: 
+
+# google analytics
+googleTrackId: 
